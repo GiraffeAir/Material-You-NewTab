@@ -2,9 +2,7 @@
 # Chrome_NewTab
 🚀 Experience a sleek NewTab or homepage theme for your browser, inspired by Google's 'Material You' design. This extension offers a wealth of functionality, including the ability to search using your preferred search engine (Google, DuckDuckGo, Bing, YouTube) without needing to change the search engine from the settings. It also provides convenient shortcuts to your favorite websites, theming functionality, and much more. 🛡️ This extension doesn't require any permissions, ensuring your privacy and security while browsing.
 
-![image]((https://github.com/GiraffeAir/Material-You-NewTab/blob/main/1.jpg))
-![image]((https://github.com/GiraffeAir/Material-You-NewTab/blob/main/2.jpg))
-![image]((https://github.com/GiraffeAir/Material-You-NewTab/blob/main/3.jpg))
+
 ![image](https://github.com/GiraffeAir/Material-You-NewTab/blob/main/4.jpg)
 ![image](https://github.com/GiraffeAir/Material-You-NewTab/blob/main/5.jpg)
 
